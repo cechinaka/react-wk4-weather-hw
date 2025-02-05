@@ -1,14 +1,13 @@
+import React from 'react';
 import './App.css';
 
 import Header from './Header';
-import Footer from './Footer';
 import Main from './Main';
-
-
+import Footer from './Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App weatherBox">
       <Header className="App-header" />
       <Main className="App-Main" />
       <Footer className="App-Footer" />
