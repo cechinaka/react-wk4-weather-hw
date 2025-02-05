@@ -10,13 +10,13 @@ export default function Footer() {
         </a>
         and is on
         <a
-          href="https://github.com/cechinaka/Plus.Final.Project"
+          href="https://github.com/cechinaka/react-wk4-weather-hw"
           target="_blank"
         >
           GitHub
         </a>
         and hosted on
-        <a href="https://venerable-faun-ecd2fa.netlify.app/" target="_blank">
+        <a href="https://fantastic-alpaca-db7190.netlify.app/" target="_blank">
           Netlify.
         </a>
       </footer>
